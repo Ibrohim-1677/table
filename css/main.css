@@ -1,0 +1,13 @@
+table {
+  margin: 30px;
+  background-color: aqua;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid;
+  text-align: center;
+  vertical-align: center;
+}
+/*# sourceMappingURL=main.css.map */
